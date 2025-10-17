@@ -23,7 +23,7 @@ function App() {
     <div className="min-h-screen bg-black text-white flex flex-col items-center p-8">
       {/* Header */}
       <div className="w-full flex justify-between items-center bg-gray-800 p-4 rounded-lg mb-6">
-        <img src="/mist-logo.png" alt="MIST" className="h-10" />
+        <img src="./images/mist-logo.png" alt="MIST" className="h-10" />
         <p>Name, Reg Number, Contact Number of person submitting</p>
       </div>
 
